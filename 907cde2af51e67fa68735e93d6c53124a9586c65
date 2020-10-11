@@ -1,0 +1,1 @@
+{"jobID":"576bf932-9722-d5da-0c5a-7957087ebabd","spec":{"type":"policy","cause":{"Message":"","User":"t_ishikawa \u003ctissi0708@gmail.com\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
